@@ -1,0 +1,11 @@
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\bin\Debug\datageçti.exe.config
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\bin\Debug\datageçti.exe
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\bin\Debug\datageçti.pdb
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\obj\Debug\datageçti.csproj.AssemblyReference.cache
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\obj\Debug\datageçti.csproj.SuggestedBindingRedirects.cache
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\obj\Debug\datageçti.Form1.resources
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\obj\Debug\datageçti.Properties.Resources.resources
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\obj\Debug\datageçti.csproj.GenerateResource.cache
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\obj\Debug\datageçti.csproj.CoreCompileInputs.cache
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\obj\Debug\datageçti.exe
+C:\Users\nurse\OneDrive\Masaüstü\datageçti\datageçti\obj\Debug\datageçti.pdb
